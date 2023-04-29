@@ -1,5 +1,5 @@
 # FinancialReports-DynamicDashboard-PowerBI
-*This is a project from my career that I have showcased in my repository. While all of the data has been changed to arbitrary values, there is sensitive information related to my current company in the dimension table. As a result, I will only post the measures that I created and screenshots to demonstrate the results.*
+*This is an individual project from my career that I have showcased in my repository. While all of the data has been changed to arbitrary values, there is sensitive information related to my current company in the dimension table. As a result, I will only post the measures that I created and screenshots to demonstrate the results.*
 
 
 # Introduction
