@@ -10,42 +10,41 @@
 Click here to expand!
 </summary>
 
-## Entity Relationship
 ![ERD](Assets/ERD/ERD.png)
 
-`B&S Data Warehouse`
+⬇️`B&S Data Warehouse`
 
 ![B&S Data Warehouse](Assets/ERD/B&S%20Data%20Warehouse.png)
 
-`Balancesheet Structure`
+⬇️`Balancesheet Structure`
 
 ![Alt text](Assets/ERD/Balancesheet%20Structure.png)
 
-`Budget P&L Data Warehouse`
+⬇️`Budget P&L Data Warehouse`
 
 ![Alt text](Assets/ERD/Budget%20P&L%20Data%20Warehouse.png)    
 
-`C&F Data Warehouse`
+⬇️`C&F Data Warehouse`
 
 ![Alt text](Assets/ERD/C&F%20Data%20Warehouse.png)
 
-`Cashflow Structure`
+⬇️`Cashflow Structure`
 
 ![Alt text](Assets/ERD/Cashflow%20Structure.png)
 
-`Dupont`
+⬇️`Dupont`
 
 ![Alt text](Assets/ERD/Dupont.png)
 
-`P&L Data Warehouse`
+⬇️`P&L Data Warehouse`
 
 ![Alt text](Assets/ERD/P&L%20Data%20Warehouse.png)
 
-`P&L Data Warehouse`
+⬇️`P&L Data Warehouse`
 
 ![Alt text](Assets/ERD/Performance&Channels%20Structure.png)
 
-`P&L Data Warehouse`
+⬇️`P&L Data Warehouse`
 
 ![Alt text](Assets/ERD/TimeTable.png)
 
