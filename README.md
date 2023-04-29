@@ -10,8 +10,10 @@
 Click here to expand!
 </summary>
 
-    
-    
+![ERD](Assets/ERD/ERD.png)
+
+
+![B&S Data Warehouse](Assets/ERD/B&S%20Data%20Warehouse.png)
     
     
     
