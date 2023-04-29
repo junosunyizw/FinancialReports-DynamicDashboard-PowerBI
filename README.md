@@ -10,6 +10,7 @@
 Click here to expand!
 </summary>
 
+## Entity Relationship
 ![ERD](Assets/ERD/ERD.png)
 
 `B&S Data Warehouse`
