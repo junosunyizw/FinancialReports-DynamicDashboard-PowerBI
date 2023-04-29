@@ -341,4 +341,4 @@ CALCULATE([Total Value of CF],FILTER('C&F Data Warehouse','C&F Data Warehouse'[A
 ```
 CALCULATE([Net CF FROM OA],PREVIOUSMONTH('TimeTable'[Date]))
 ```
-![image](https://user-images.githubusercontent.com/69760533/235291215-b4332bcc-71a4-4cf2-ae5c-e83a40a70f76.png)
+
