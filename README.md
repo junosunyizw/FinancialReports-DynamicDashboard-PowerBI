@@ -349,7 +349,9 @@ OPENINGBALANCEMONTH([Quick Ratio],'TimeTable'[Date])
 "VAR I = CALCULATE('A.Measure'[Total Value of BS(Ending Balance)],FILTER('B&S Data Warehouse','B&S Data Warehouse'[Accounts]=""Total Inventory""))
 Return
     CALCULATE([Total Current Asset(Include Bank)]-I)"
-Total Current Asset(Include Bank)
+```
+### Total Current Asset(Include Bank)
+```
 "Var CA = CALCULATE([Total Value of BS(Ending Balance)], FILTER('B&S Data Warehouse','B&S Data Warehouse'[Accounts]=""Total Current Assets""))
     Var Bank = CALCULATE([Total Value of BS(Ending Balance)],FILTER('B&S Data Warehouse','B&S Data Warehouse'[Accounts]=""Total Bank""))
 Return
