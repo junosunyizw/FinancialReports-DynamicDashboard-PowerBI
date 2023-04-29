@@ -1,9 +1,23 @@
 # FinancialReports-DynamicDashboard-PowerBI
 
+# Introduction
 
 
 
+# ERD
+<details>
+<summary>
+Click here to expand!
+</summary>
 
+    
+    
+    
+    
+    
+    
+    
+</details>
 
 # A.Measure
 ## A.A.P&L Measures
