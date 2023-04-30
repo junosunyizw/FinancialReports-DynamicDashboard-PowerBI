@@ -4,9 +4,14 @@
 
 # Introduction
 
-
+## Background 
+I am currently employed at a local retail, wholesale, and e-commerce business that has been in operation for over 20 years. Our company operates globally through online and offline channels in Australia, United Kingdom, and the United States. In terms of accounting and finance, we use Xero as our accounting system for daily transactions, general journal entries, and month-end procedures. With several channels to manage, our directors are extremely cautious about the performance and budget of each channel. However, Xero, being a basic accounting software, cannot provide comprehensive insights for the business to meet our directors' reporting requirements. Consequently, the directors have been relying on financial reports built in Excel during the last couple of years.
 
 # Project Overview
+
+
+
+
 
 # ERD
 <details>
