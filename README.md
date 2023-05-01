@@ -73,6 +73,22 @@ Click here to expand!
 
 ***
 
+# Results
+
+## P&L Dashboard
+![Alt text](Assets/New%20Reports%20Dashboard/PL%20Dashboard.png)
+
+## Trend and Allocation Dashboard
+![Alt text](Assets/New%20Reports%20Dashboard/Trend%20Report.png)
+
+## B&S Dashboard
+![Alt text](Assets/New%20Reports%20Dashboard/BS%20Dashboard.png)
+
+## CashFlow Dashboard
+![Alt text](Assets/New%20Reports%20Dashboard/CashFlow%20Dashboard.png)
+
+***
+
 # A.Measure
 ## A.A.P&L Measures
 ### Gross Profit
