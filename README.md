@@ -45,8 +45,9 @@ Excel of Cash Flow statements
 - ### **Challenges of complexity of financial reports**
     - 
 
-- ### **Challenges of limitation of finacnail reports
+- ### **Challenges of readability and limitation of finacnail reports
     - 
+
 
 
 # Project Overview
