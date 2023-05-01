@@ -11,6 +11,20 @@ Company is local retail, wholesale, and e-commerce business that has been in ope
 As a seasoned accountant and analyst who recently joined the company, I have identified several shortcomings and challenges in the accounting and finance processes. These challenges have directly impacted my daily tasks and have significantly affected the efficiency of financial reporting. Therefore, I propose to create a dynamic BI dashboard that will improve the efficiency of financial reporting and provide directors with a comprehensive insight into the business.
 
 # Challenges
+
+<details>
+<summary>
+Click here to expand!
+</summary>
+Excel of Financial reports
+
+![Alt text](Assets/Outdated%20Reports/Outdated%20PL.png)
+
+Excel of Cash Flow statements
+![Alt text](Assets/Outdated%20Reports/Outdated%20PL.png)
+    
+</details>
+
 - ### **Challenges of Data Source (Xero)**
     - XERO, as basic accounting software, does not permit direct access to its database for users. Therefore, the only feasible option to retrieve data from a record is to export the spreadsheet.
 
