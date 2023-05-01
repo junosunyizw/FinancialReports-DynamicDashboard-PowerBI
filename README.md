@@ -16,7 +16,7 @@ As a seasoned accountant and analyst who recently joined the company, I have ide
 <summary>
 Click here to expand!
 </summary>
-Excel of Financial reports
+Excel of Profit & Loss Statements
 
 ![Alt text](Assets/Outdated%20Reports/Outdated%20PL.png)
 
