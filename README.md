@@ -3,9 +3,20 @@
 
 
 # Introduction
-
 ## Background 
 I am currently employed at a local retail, wholesale, and e-commerce business that has been in operation for over 20 years. Our company operates globally through online and offline channels in Australia, United Kingdom, and the United States. In terms of accounting and finance, we use Xero as our accounting system for daily transactions, general journal entries, and month-end procedures. With several channels to manage, our directors are extremely cautious about the performance and budget of each channel. However, Xero, being a basic accounting software, cannot provide comprehensive insights for the business to meet our directors' reporting requirements. Consequently, the directors have been relying on financial reports built in Excel during the last couple of years.
+
+As a seasoned accountant and analyst who recently joined the company, I have identified several shortcomings and challenges in the accounting and finance processes. These challenges have directly impacted my daily tasks and have significantly affected the efficiency of financial reporting. Therefore, I propose to create a dynamic BI dashboard that will improve the efficiency of financial reporting and provide directors with a comprehensive insight into the business.
+
+## Challenges
+- ### **Challenges of Data Source (Xero)**
+    - XERO, as basic accounting software, does not permit direct access to its database for users. Therefore, the only feasible option to retrieve data from a record is to export the spreadsheet.
+
+
+- ### **Challenges of Primary Keys (`Chart of Accounts` in Xero)**
+    -  Over the years, almost 500 chart of accounts have been created in Xero to meet directors' requirements. These accounts are unstructured and unformatted, and are used to separate all sales, cost of goods sold (COGS), and operating expenses for each selling channel. However, when exporting data from Xero, these accounts are difficult to match with accounts in Excel reports. As a result, former accountants and I have to spend a lot of time manually transferring data from these.
+
+
 
 # Project Overview
 
