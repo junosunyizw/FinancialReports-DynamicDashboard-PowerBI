@@ -34,18 +34,16 @@ Excel of Cash Flow statements
 
 
 - ### **Challenges of Data expandability and Performance of financial reports**
-    - data volume incerase, wrong formual limit performance
+    - 
 
 - ### **Challenges of Stability of financial reports**
-    - In this Excel report, there are multiple broken links indicating that some formulas are not functioning correctly and are not providing accurate information to report users. This is due to the Excel report being linked to various data source pages, analysis pages, and external sources. Some errors occur every time I update monthly figures in the worksheet, and I have to manually alter the formulas to overcome them one by one. I feel that this worksheet is unstable and could fall apart at any time, like a broken castle.
+    - In this Excel report, there are multiple formulas are not functioning correctly and are not providing accurate information to report users. This is due to the Excel report being linked to various data source pages, analysis pages, and external sources. Some errors occur every time I update monthly figures in the worksheet, and I have to manually alter the formulas to overcome them one by one. I feel that this worksheet is unstable and could fall apart at any time, like a broken castle.
 
 - ### **Challenges of maintainability of financial reports**
     - Besides the errors caused by incorrect formulas, there are over 15 tabs in these Excel reports in order to show data for each channel, as required by the directors. Each tab has the same 500 account categories, but with different data for each channel. When there is a requirement to add extra accounts or channels to the reports, I have to add these accounts to each tab related to the channels. It is not difficult to imagine how unreasonable and challenging to maintain this worksheet.
 
-- ### **Challenges of complexity of financial reports**
-    - 
 
-- ### **Challenges of readability and limitation of finacnail reports**
+- ### **Challenges of readability and complexity of finacnail reports**
     - 
 
 
