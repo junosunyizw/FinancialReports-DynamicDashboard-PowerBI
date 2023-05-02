@@ -8,7 +8,7 @@
 # Background 
 Company is local retail, wholesale, and e-commerce business that has been in operation for over 20 years. It operates globally through online and offline channels in Australia, United Kingdom, and the United States. In terms of accounting and finance, Xero as our accounting system has been used for daily transactions, general journal entries, and month-end procedures. With several channels to manage, directors are extremely cautious about the performance and budget of each channel. However, Xero, being a basic accounting software, cannot provide comprehensive insights for the business to meet our directors' reporting requirements. Consequently, the directors have been relying on financial reports built in Excel during the last couple of years.
 
-As a seasoned accountant and analyst who recently joined the company, I have identified several shortcomings and challenges in the accounting and finance processes. These challenges have directly impacted my daily tasks and have significantly affected the efficiency of financial reporting. Therefore, I propose to create a dynamic BI dashboard that will improve the efficiency of financial reporting and provide directors with a comprehensive insight into the business.
+Several shortcomings and challenges have been identified in the accounting and finance processes after joining this company. These challenges have directly impacted my daily tasks and have significantly affected the efficiency of financial reporting. Therefore, I propose to create a dynamic BI dashboard that will improve the efficiency of financial reporting and provide directors with a comprehensive insight into the business.
 
 # Challenges
 
