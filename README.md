@@ -33,7 +33,7 @@ Excel of Cash Flow statements
     -  Over the years, almost 500 chart of accounts have been created in Xero to meet directors' requirements. These accounts are unstructured and unformatted, and are used to separate all sales, cost of goods sold (COGS), and operating expenses for each selling channel. However, when exporting data from Xero, these accounts are difficult to match with accounts in Excel reports. As a result, former accountants and I have to spend a lot of time manually transferring data from these.
 
 
-- ### **Challenges of Data expandability and Performance of financial reports**
+- ### **Challenges of Data expandability of financial reports**
     - 
 
 - ### **Challenges of Stability of financial reports**
