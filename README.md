@@ -21,7 +21,7 @@ Excel of Profit & Loss Statements
 ![Alt text](Assets/Outdated%20Reports/Outdated%20PL.png)
 
 Excel of Cash Flow statements
-![Alt text](Assets/Outdated%20Reports/Outdated%20PL.png)
+![Alt text](Assets/Outdated%20Reports/Outdated%20CF.png)
     
 </details>
 
