@@ -23,8 +23,6 @@ Previous Profit & Loss Statements
 Previous Cash Flow statements
 ![Alt text](Assets/Outdated%20Reports/Outdated%20CF.png)
     
-</details>
-
 - ### **Challenges of Data Source (Xero)**
     - XERO, as basic accounting software, does not permit direct access to its database for users. Therefore, the only feasible option to retrieve data from a record is to export the spreadsheet.
 
@@ -46,7 +44,7 @@ Previous Cash Flow statements
 - ### **Challenges of readability and complexity of finacnail reports**
     - The report is excessively complex for primary users to read and understand, as there are too many columns on each page. For reporters, too much data is displayed on a single page, requiring them to scroll up and down and drag the page left and right. This can easily distract users' attention from the information they are trying to convey.
 
-
+</details>
 
 # Project Overview
 
