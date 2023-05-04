@@ -43,8 +43,8 @@ Previous Cash Flow statements
 </details>
 
 # Expectations
-### - To enhance the report's efficiency, it would be advantageous to incorporate an automated data retrieval system that can access the database either in real-time or periodically. By doing so, the report maintainer will be able to save a considerable amount of time that is currently being spent on manually exporting data from multiple sources.
-- 
+- To enhance the report's efficiency, it would be advantageous to incorporate an automated data retrieval system that can access the database either in real-time or periodically. By doing so, the report maintainer will be able to save a considerable amount of time that is currently being spent on manually exporting data from multiple sources.
+- To improve the structure of the chart of accounts in Xero, it may be beneficial to create dimensions for the report using the chart of accounts as the primary key. Head accounts, categories, and sub-categories should be created for the Profit & Loss, Balance Sheet, and Cash Flow statements, with channels serving as a key dimension for the Profit & Loss. Time is another dimension that can be used to review reports at different time intervals.
 - 
 - 
 
