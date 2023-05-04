@@ -16,11 +16,11 @@ Several shortcomings and challenges have been identified in the accounting and f
 <summary>
 Click here to expand!
 </summary>
-Excel of Profit & Loss Statements
+Previous Profit & Loss Statements
 
 ![Alt text](Assets/Outdated%20Reports/Outdated%20PL.png)
 
-Excel of Cash Flow statements
+Previous Cash Flow statements
 ![Alt text](Assets/Outdated%20Reports/Outdated%20CF.png)
     
 </details>
