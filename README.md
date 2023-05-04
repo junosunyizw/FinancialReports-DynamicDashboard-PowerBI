@@ -44,7 +44,7 @@ Excel of Cash Flow statements
 
 
 - ### **Challenges of readability and complexity of finacnail reports**
-    - 
+    - The report is excessively complex for primary users to read and understand, as there are too many columns on each page. For reporters, too much data is displayed on a single page, requiring them to scroll up and down and drag the page left and right. This can easily distract users' attention from the information they are trying to convey.
 
 
 
