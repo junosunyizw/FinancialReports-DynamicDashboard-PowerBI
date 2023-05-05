@@ -46,8 +46,8 @@ Previous Cash Flow statements
 - To enhance the report's efficiency, it would be advantageous to incorporate an automated data retrieval system that can access the database either in real-time or periodically. By doing so, the report maintainer will be able to save a considerable amount of time that is currently being spent on manually exporting data from multiple sources.
 - To improve the structure of the chart of accounts in Xero, it may be beneficial to create dimensions for the report using the chart of accounts as the primary key. Head accounts, categories, and sub-categories should be created for the Profit & Loss, Balance Sheet, and Cash Flow statements, with channels serving as a key dimension for the Profit & Loss. Time is another dimension that can be used to review reports at different time intervals.
 - To enhance reports' reliability and stability, consider optimizing data model, using cached data, and avoiding custom visuals. It is also crucial to test reports before using it to ensure its accuracy.
-- To improve maintainability, it is key to standardize report layout and design, use consistent naming conventions, create a data dictionary, use comments in DAX formulas, and simplify complex calculations. Reports will become more consistent, easier to find and update, and more manageable.
-- 
+- To improve maintainability, it is key to standardize report layout and design, use consistent naming conventions, create a data dictionary, use comments in formulas, and simplify complex calculations. Reports will become more consistent, easier to find and update, and more manageable.
+- The dashboard of the new report should display key data with functions for drilling down into key categories and using filters and slicers to achieve time intelligence and segmentations of channels and categories. Furthermore, using simple visualizations such as bar charts, line charts, and funnels to demonstrate the trend, movement, and occupation of key data is necessary to increase readability and reduce the complexity of reports.
 
 
 # Project Overview
