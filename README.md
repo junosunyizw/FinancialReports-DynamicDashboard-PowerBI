@@ -58,10 +58,10 @@ This project is to build up dynamic dashboard of new report to meet my expectati
 ### Software :  Excel, Power Query and Power BI.
 
 ### Steps : 
-- 1. Data sources
-    - I have searched for third-party integrations of Xero that enable Power BI to connect to the Xero database indirectly. Specifically, I am interested in [Acterys](https://acterys.com/) and [Odatalink](https://odatalink.com/)
+- 1. Finding a way to access Database of Xero indirectly.
+    - I have searched for third-party integrations of Xero that enable Power BI to connect to the Xero database indirectly. Specifically, I am interested in [Acterys](https://acterys.com/) and [Odatalink](https://odatalink.com/).
 
-
+- 2. Restructure
 
 
 # ERD
