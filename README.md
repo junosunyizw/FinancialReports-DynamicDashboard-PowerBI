@@ -51,6 +51,12 @@ Previous Cash Flow statements
 
 
 # Project Overview
+This project is to build up dynamic dashboard of new report to meet my expectations and director`s requirements.
+
+### Time : 3 months
+
+### Software :  Excel, Power Query and Power BI.
+
 
 
 
