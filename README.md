@@ -58,10 +58,11 @@ This project is to build up dynamic dashboard of new report to meet my expectati
 ### Software :  Excel, Power Query and Power BI.
 
 ### Steps : 
-- 1. Finding a way to access Database of Xero indirectly.
+- 1. Finding a way to access Database of Xero indirectly(Data Sources).
     - I have searched for third-party integrations of Xero that enable Power BI to connect to the Xero database indirectly. Specifically, I am interested in [Acterys](https://acterys.com/) and [Odatalink](https://odatalink.com/).
 
-- 2. Restructure
+- 2. Restructuring and Reformatting the chart of accounts in Xero.
+    - Firstly, discuss and explain this step with manager and directors as they are not professional accoutant. they probably do not understand the meaning and affects for report when changes happened. In meanwhile, it is also opportuties of myself to understand this buiness in depth, which is helping me to accurately setup the accounts. For example, in order to demenstrate Channels and Country for "COST OF GOOD SOLD" in accounts, I setup the new name format for this account as `Cost of Good Sold` + `channels` + `Country`
 
 
 # ERD
