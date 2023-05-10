@@ -73,7 +73,8 @@ This project is to build up dynamic dashboard of new report to meet my expectati
     - DAX is advanced query languages to bring functions, formulas, operator into your measures in Power BI. This is primary step to convert data set to useful information in reports.
 - 6. **Building up visual dashboard.**
     - Using line chart, bar chart, pie chart, cards, martrix and funnels to simplely outline key data in dashboard adding time, channels and category slicer function for dynamically demenstrating information in different dementions to report users.
-- 7. 
+- 7. **Testing performance, and tailoring draft dashboard based on users`requiremnets.**
+    - Whole point to rebuild new reports is to offer better experiences for report users - my directors and manger. So, their requirements and feelings of using thi report is very important. We will have couple of meeting to test this draft dashboard and to discuss which parts of dashboard can be altered to meet their needs and favoriates. This can be very specific.
 
 
 
