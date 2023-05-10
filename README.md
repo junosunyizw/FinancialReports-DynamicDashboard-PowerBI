@@ -76,9 +76,9 @@ This project is to build up dynamic dashboard of new report to meet my expectati
 - 7. **Testing performance, and tailoring draft dashboard based on users`requiremnets.**
     - Whole point to rebuild new reports is to offer better experiences for report users - my directors and manger. So, their requirements and feelings of using thi report is very important. We will have couple of meeting to test this draft dashboard and to discuss which parts of dashboard can be altered to meet their needs and favoriates.
 
+# Project Results
 
-
-# ERD
+## ERD
 <details>
 <summary>
 Click here to expand!
@@ -127,7 +127,7 @@ Click here to expand!
 
 ***
 
-# Results
+## Dashboards
 
 ## P&L Dashboard
 ![Alt text](Assets/New%20Reports%20Dashboard/PL%20Dashboard.png)
