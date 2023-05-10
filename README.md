@@ -129,6 +129,11 @@ Click here to expand!
 
 ## Dashboards
 
+<details>
+<summary>
+Click here to expand!
+</summary>
+
 ### P&L Dashboard
 ![Alt text](Assets/New%20Reports%20Dashboard/PL%20Dashboard.png)
 
@@ -141,9 +146,19 @@ Click here to expand!
 ### CashFlow Dashboard
 ![Alt text](Assets/New%20Reports%20Dashboard/CashFlow%20Dashboard.png)
 
+</details>
+
 ***
 
+
 ## A.Measure
+
+<details>
+<summary>
+Click here to expand!
+</summary>
+
+
 ## A.A.P&L Measures
 ### Gross Profit
 ```
@@ -481,4 +496,4 @@ CALCULATE([Total Value of CF],FILTER('C&F Data Warehouse','C&F Data Warehouse'[A
 ```
 CALCULATE([Net CF FROM OA],PREVIOUSMONTH('TimeTable'[Date]))
 ```
-
+</details>
