@@ -67,11 +67,13 @@ This project is to build up dynamic dashboard of new report to meet my expectati
 - 3. **Preparing and clearning data sets from sources.**
     - This is key step to gurantee all useful data has been included in data model for next step and remove redundant or error data from the data model, which is possibility to reduce loading speed of reports.
 - 4. **Data modelling**
-    - Firstly, factor table, time table and dimentional tables should be prepared and orgainised hierarchies in proporties of power bi, which could improve stability and maintainability for data model.
+    - Firstly, factor table, time table and dimentional tables should be prepared and orgainised hierarchically in proporties of power bi, which could improve stability and maintainability for data model.
     - Secondly, create entity relationship diagram (ERD), which could allow user to visual the relationships of tables in the model. 
 - 5. **Generating measures by using Data Analysis Expressions (DAX) in Power BI.**
     - DAX is advanced query languages to bring functions, formulas, operator into your measures in Power BI. This is primary step to convert data set to useful information in reports.
-- 6. 
+- 6. **Building up visual dashboard.**
+    - Using line chart, bar chart, pie chart, cards, martrix and funnels to simplely outline key data in dashboard adding time, channels and category slicer function for dynamically demenstrating information in different dementions to report users.
+- 7. 
 
 
 
