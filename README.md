@@ -65,7 +65,12 @@ This project is to build up dynamic dashboard of new report to meet my expectati
     - Firstly, discuss and explain this step with manager and directors as they are not professional accoutant. they probably do not understand the meaning and affects for report when changes happened. In meanwhile, it is also opportuties of myself to understand this buiness in depth, which is helping me to accurately setup the accounts. 
     - Secondly, I setup new format of acccounts and unified their structure as `Accounts` + `channels` + `countries`. For example, the advertisting expense inccured for abc channel in United States. then the account will be restructed as `Adveristing expense abc us` and so on. 
     - Thirdly, setting up rules for unifing structures when adding up extra chart of accounts if requires.
-- 3. Establishing 
+- 3. Preparing and clearning data sets from sources. 
+    - This is key step to gurantee all useful data has been included in data model for next step and remove redundant or error data from the data model, which is possibility to reduce loading speed of reports.
+- 4. Data modelling
+    - Firstly, factor table, time table and dimentional tables should be prepared and orgainised hierarchies in proporties of power bi, which could improve stability and maintainability for data model.
+    - Secondly, create entity relationship diagram (ERD)
+
 
 # ERD
 <details>
