@@ -60,7 +60,6 @@ This project is to build up dynamic dashboard of new report to meet my expectati
 ### Steps : 
 - 1. Finding a way to access Database of Xero indirectly(Data Sources).
     - I have searched for third-party integrations of Xero that enable Power BI to connect to the Xero database indirectly. Specifically, I am interested in [Acterys](https://acterys.com/) and [Odatalink](https://odatalink.com/).
-
 - 2. Restructuring and Reformatting the chart of accounts in Xero.
     - Firstly, discuss and explain this step with manager and directors as they are not professional accoutant. they probably do not understand the meaning and affects for report when changes happened. In meanwhile, it is also opportuties of myself to understand this buiness in depth, which is helping me to accurately setup the accounts. 
     - Secondly, I setup new format of acccounts and unified their structure as `Accounts` + `channels` + `countries`. For example, the advertisting expense inccured for abc channel in United States. then the account will be restructed as `Adveristing expense abc us` and so on. 
@@ -69,7 +68,10 @@ This project is to build up dynamic dashboard of new report to meet my expectati
     - This is key step to gurantee all useful data has been included in data model for next step and remove redundant or error data from the data model, which is possibility to reduce loading speed of reports.
 - 4. Data modelling
     - Firstly, factor table, time table and dimentional tables should be prepared and orgainised hierarchies in proporties of power bi, which could improve stability and maintainability for data model.
-    - Secondly, create entity relationship diagram (ERD)
+    - Secondly, create entity relationship diagram (ERD), which could allow user to visual the relationships of tables in the model. 
+- 5. Scripting measures by using Data Analysis Expressions (DAX) in Power BI.
+    - DAX is advanced query languages to bring functions, formulas, operator into your measures in Power BI. 
+
 
 
 # ERD
