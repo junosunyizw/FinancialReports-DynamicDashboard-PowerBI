@@ -12,10 +12,7 @@ Several shortcomings and challenges have been identified in the accounting and f
 
 # Challenges
 
-<details>
-<summary>
-Click here to expand!
-</summary>
+
 Previous Profit & Loss Statements
 
 ![Alt text](Assets/Outdated%20Reports/Outdated%20PL.png)
@@ -39,8 +36,6 @@ Previous Cash Flow statements
 
 - ### **Challenges of readability and complexity of finacnail reports**
     - The report is excessively complex for primary users to read and understand, as there are too many columns on each page. For reporters, too much data is displayed on a single page, requiring them to scroll up and down and drag the page left and right. This can easily distract users' attention from the information they are trying to convey.
-
-</details>
 
 # Expectations
 - To enhance the report's efficiency, it would be advantageous to incorporate an automated data retrieval system that can access the database either in real-time or periodically. By doing so, the report maintainer will be able to save a considerable amount of time that is currently being spent on manually exporting data from multiple sources.
@@ -129,10 +124,7 @@ Click here to expand!
 
 ## Dashboards
 
-<details>
-<summary>
-Click here to expand!
-</summary>
+
 
 ### P&L Dashboard
 ![Alt text](Assets/New%20Reports%20Dashboard/PL%20Dashboard.png)
@@ -146,17 +138,12 @@ Click here to expand!
 ### CashFlow Dashboard
 ![Alt text](Assets/New%20Reports%20Dashboard/CashFlow%20Dashboard.png)
 
-</details>
 
 ***
 
 
 ## A.Measure
 
-<details>
-<summary>
-Click here to expand!
-</summary>
 
 
 ## A.A.P&L Measures
@@ -496,4 +483,4 @@ CALCULATE([Total Value of CF],FILTER('C&F Data Warehouse','C&F Data Warehouse'[A
 ```
 CALCULATE([Net CF FROM OA],PREVIOUSMONTH('TimeTable'[Date]))
 ```
-</details>
+
