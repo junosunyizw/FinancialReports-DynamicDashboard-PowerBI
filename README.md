@@ -13,11 +13,11 @@ Several shortcomings and challenges have been identified in the accounting and f
 # Challenges
 
 
-Previous Profit & Loss Statements
+Old Model of Profit & Loss Statements
 
 ![Alt text](Assets/Outdated%20Reports/Outdated%20PL.png)
 
-Previous Cash Flow statements
+Old Model of Cash Flow statements
 ![Alt text](Assets/Outdated%20Reports/Outdated%20CF.png)
     
 - ### **Challenges of Data Source (Xero)**
