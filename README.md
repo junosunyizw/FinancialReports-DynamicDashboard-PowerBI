@@ -25,7 +25,7 @@ Old Model of Cash Flow statements
 
 
 - ### **Challenges of Primary Keys (`Chart of Accounts` in Xero)**
-    -  Over the years, almost 500 chart of accounts have been created in Xero to meet directors' requirements. These accounts are unstructured and unformatted, and are used to separate all sales, cost of goods sold (COGS), and operating expenses for each selling channel. However, when exporting data from Xero, these accounts are difficult to match with accounts in Excel reports. As a result, former accountants and I have to spend a lot of time manually transferring data from these.
+    -  Over the years, almost 500 chart of accounts have been created in Xero to meet directors' requirements. These accounts are unstructured and unformatted, and are used to separate all sales, cost of goods sold (COGS), and operating expenses for each selling channel. However, when exporting data from Xero, these accounts are difficult to match with accounts in Excel reports. As a result, former accountants and I have to spend a lot of time manually transforming data from these.
 
 - ### **Challenges of Stability of financial reports**
     - In this Excel report, there are multiple formulas are not functioning correctly and are not providing accurate information to report users. This is due to the Excel report being linked to various data source pages, analysis pages, and external sources. Some errors occur every time I update monthly figures in the worksheet, and I have to manually alter the formulas to overcome them one by one. I feel that this worksheet is unstable and could fall apart at any time, like a broken castle.
